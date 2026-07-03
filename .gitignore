@@ -1,0 +1,7 @@
+*.m~
+*.mat
+*.oct
+.DS_Store
+Thumbs.db
+OS/
+RESTORE/
