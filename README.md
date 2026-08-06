@@ -1,4 +1,4 @@
-# MLight-Handover: GNSS-Free IoT Handover for LEO NTN Constellations
+# MLight-Handover: Receiver-Side RL for GNSS-Free IoT Handover in LEO NTN Constellations
 
 ## Key Results
 | Metric | Value |
